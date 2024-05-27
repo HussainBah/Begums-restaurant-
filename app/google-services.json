@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252784992649",
+    "project_id": "begums-restaurant",
+    "storage_bucket": "begums-restaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252784992649:android:fcefe168212576b64f8158",
+        "android_client_info": {
+          "package_name": "com.example.miniapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA34B7tMSSOxNho5uBMR4lb0aFGRuI2cKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
